@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jeevan-reddy-codee.github.io/RR_Security_Services/sitemap.xml
